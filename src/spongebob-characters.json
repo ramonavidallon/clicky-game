@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Spongebob Squarepants",
+    "selected":false
+  },
+
+  {
+    "id": 2,
+    "name": "Patrick Star",
+    "selected":false
+  },
+
+  {
+    "id": 3,
+    "name": "Squidward Tentacles",
+    "selected":false
+  },
+
+  {
+    "id": 4,
+    "name": "Mr. Krabs",
+    "selected":false
+  },
+
+  {
+    "id": 5,
+    "name": "Sandy Cheeks",
+    "selected":false
+  },
+
+  {
+    "id": 6,
+    "name": "Plankton",
+    "selected":false
+  },
+
+  {
+    "id": 7,
+    "name": "Gary",
+    "selected":false
+  },
+
+  {
+    "id": 8,
+    "name": "Pearl",
+    "selected":false
+  },
+
+  {
+    "id": 9,
+    "name": "Larry The Lobster",
+    "selected":false
+  },
+
+  {
+    "id": 10,
+    "name": "Mrs. Puff",
+    "selected":false
+  },
+
+  {
+    "id": 11,
+    "name": "Squilliam Fancyson",
+    "selected":false
+  },
+
+  {
+    "id": 12,
+    "name": "Karen",
+    "selected":false
+  }
+
+]
