@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Header from './components/header/header'
-// import Wrapper from "./components/Wrapper";
+import Wrapper from "./components/wrapper";
 import CharacterCard from './components/charCard'
 import './App.css'
 import spongebobCharacters from './characters.json'
@@ -33,20 +33,20 @@ class App extends Component {
 
     render(){
       return(
-        <wrapper>
+        <Wrapper>
             <Header score={this.state.counter} />
             <div className={"container"}>
                 <div className={"row"}>
-                    {this.state.fighters.map((character) => 
+                    {this.state.spongebobCharacters.map((character) => 
                     <CharacterCard  
-                    key={character.key} 
-                    id ={character.key} 
+                    key={character.id} 
+                    id ={character.id} 
                     character={character.name} 
                     selected={character.selected} 
                     counterCheck={this.counterCheck}/>)}
                 </div>
             </div>
-        </wrapper>
+        </Wrapper>
       )
       };
 }
