@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,EACE,2BACF,CAEA,IACE,eAAgB,CAChB,gBAEF,CAEA,UACE,4BAA6B,CAC7B,oBACF","file":"main.eca498d2.chunk.css","sourcesContent":["* {\n  font-family: 'Bangers', cursive;\n}\n\nimg {\n  max-width: 200px;\n  max-height: 200px;\n  \n}\n\nimg:hover {\n  -webkit-transform: scaleX(-1);\n  transform: scaleX(-1);\n}"]}
