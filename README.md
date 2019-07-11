@@ -2,10 +2,10 @@
 
 <h2> Logic </h2>
 <ul>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
+  <li> Put your memory to the test with this React built clicky game </li>
+  <li> Once a character is selected, the user cannot select that character twice or else the game will end </li>
+  <li> There is a point counter to keep track of points in the current game </li>
+  <li> There is also a highest point counter to keep track of the highest scored game during that session </li>
 </ul>
 
 <h2> Technologies used </h2>
