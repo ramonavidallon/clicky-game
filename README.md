@@ -20,6 +20,8 @@
 
 <h3> https://ramonavidallon.github.io/clicky-game/ </h3>
 
+<hr>
+
 <img width="1142" alt="clicky-game copy" src="https://user-images.githubusercontent.com/43662571/61015133-3e008780-a33f-11e9-93f5-81ae13054f07.png">
 
 
