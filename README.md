@@ -10,10 +10,10 @@
 
 <h2> Technologies used </h2>
 <ul>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
+  <li> React JS </li>
+  <li> HTML </li>
+  <li> CSS </li>
+  <li> Javascript </li>
 </ul>
 
 <h2> Github Pages Link </h2>
