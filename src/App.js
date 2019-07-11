@@ -63,7 +63,16 @@ class App extends Component {
       })
     }
 
+    // newTopScoreAlert = () => {
+    //   if (this.newScore === this.newTopScore) {
+    //     alert("Congratulations! You've reached a new high score!")
+    //   }
+    // }
+
+   
+
     handleIncorrect = (characters) => {
+      alert("Game over!")
       console.log("handleIncorrect");
       
       this.setState({
